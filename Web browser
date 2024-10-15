@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>kishan site</title>
+        <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <h1>
+                "My name is Kishan"Mobile 
+            </h1>
+            <p>
+                "CS Engineer learning at ICFAI university"
+            </p>
+            <a href="https://developers.google.com">Click here</a>
+
+
+            
+
+        </body>
+        </html>
+
+CSS:
+h1 {
+    text-align: center;
+    color: green;
+    padding:50px;
+    font-size:30px;
+}
+p {
+    text-align: justify;
+    color: red;
+    font-size:20px;
+    
+}
